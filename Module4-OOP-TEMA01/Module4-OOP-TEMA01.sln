@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp", "PizzaApp\PizzaA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelApp", "HotelApp1\HotelApp.csproj", "{45B4BB76-88F9-4EB8-914F-87F021463F0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookApp", "BookApp\BookApp.csproj", "{7D4814D6-65E9-4449-8AD4-2D6648EECF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfessorApp", "ProfessorApp\ProfessorApp.csproj", "{36040C65-F701-4D0E-A3AC-714B43154DBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{45B4BB76-88F9-4EB8-914F-87F021463F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B4BB76-88F9-4EB8-914F-87F021463F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B4BB76-88F9-4EB8-914F-87F021463F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4814D6-65E9-4449-8AD4-2D6648EECF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4814D6-65E9-4449-8AD4-2D6648EECF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4814D6-65E9-4449-8AD4-2D6648EECF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4814D6-65E9-4449-8AD4-2D6648EECF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36040C65-F701-4D0E-A3AC-714B43154DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36040C65-F701-4D0E-A3AC-714B43154DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36040C65-F701-4D0E-A3AC-714B43154DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36040C65-F701-4D0E-A3AC-714B43154DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

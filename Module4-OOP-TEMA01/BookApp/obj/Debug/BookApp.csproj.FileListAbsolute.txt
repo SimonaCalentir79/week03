@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\bin\Debug\BookApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\bin\Debug\BookApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\bin\Debug\BookApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\obj\Debug\BookApp.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\obj\Debug\BookApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\obj\Debug\BookApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\BookApp\obj\Debug\BookApp.pdb

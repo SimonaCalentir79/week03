@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\bin\Debug\ProfessorApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\bin\Debug\ProfessorApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\bin\Debug\ProfessorApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\obj\Debug\ProfessorApp.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\obj\Debug\ProfessorApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\obj\Debug\ProfessorApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA01\ProfessorApp\obj\Debug\ProfessorApp.pdb
