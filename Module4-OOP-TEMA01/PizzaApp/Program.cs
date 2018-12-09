@@ -31,21 +31,21 @@ namespace PizzaApp
 
             //Console.WriteLine("\n {0} \n {1} \n {2}",topping1.Print (), topping2.Print (), topping3.Print ());
 
-            Pizza pizza1 = new Pizza() { numeBaza = "Regular", costBaza = 10};
+            Pizza pizza1 = new Pizza() { numeBaza = bazaPizza1.Name, costBaza = bazaPizza1.Cost};
             pizza1.AddPizza("Espagnola");
             pizza1.pizzaToppings.Add(topping1);
             pizza1.pizzaToppings.Add(topping2);
             pizza1.pizzaToppings.Add(topping6);
             pizza1.pizzaToppings.Add(topping9);
 
-            Pizza pizza2 = new Pizza() { numeBaza = "Italian", costBaza = 12 };
+            Pizza pizza2 = new Pizza() { numeBaza = bazaPizza2.Name, costBaza = bazaPizza2.Cost};
             pizza2.AddPizza("Verona");
             pizza2.pizzaToppings.Add(topping3);
             pizza2.pizzaToppings.Add(topping4);
             pizza2.pizzaToppings.Add(topping5);
             pizza2.pizzaToppings.Add(topping8);
 
-            Pizza pizza3 = new Pizza() { numeBaza = "Thik", costBaza = 15};
+            Pizza pizza3 = new Pizza() { numeBaza = bazaPizza3.Name, costBaza = bazaPizza3.Cost};
             pizza3.AddPizza("Florenta");
             pizza3.pizzaToppings.Add(topping2);
             pizza3.pizzaToppings.Add(topping3);
