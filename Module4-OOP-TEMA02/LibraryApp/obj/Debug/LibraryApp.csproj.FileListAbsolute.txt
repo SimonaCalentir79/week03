@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\bin\Debug\LibraryApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\obj\Debug\LibraryApp.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Module4-OOP-TEMA02\Module4-OOP-TEMA02\LibraryApp\obj\Debug\LibraryApp.pdb
