@@ -17,7 +17,8 @@ namespace LibraryApp
             }
             else
             {
-                Console.WriteLine($"E-mail '{email}' doesn't have a valid format!!");
+                this.Name = name;
+                this.Email = "'invalid format'";
             }
         }
         public string Name { get; set; }
